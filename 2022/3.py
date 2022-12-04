@@ -1,4 +1,4 @@
-input_path = "AdventOfCode/2022/3.in"
+input_path = "2022/3.in"
 
 rucksack = list()
 with open(input_path, "r") as input:

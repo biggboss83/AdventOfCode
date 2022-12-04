@@ -1,4 +1,4 @@
-input_path = "AdventOfCode/2022/2.in"
+input_path = "2022/2.in"
 
 points = {
     "X" : 0,

@@ -1,4 +1,4 @@
-input_path = "AdventOfCode/2022/1.in"
+input_path = "2022/1.in"
 
 elves = list()
 
