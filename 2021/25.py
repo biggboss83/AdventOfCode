@@ -1,4 +1,4 @@
-input_path = "AdventOfCode/2021/25.in"
+input_path = "2021/25.in"
 
 with open(input_path, "r") as input:
     seabed = [x.strip() for x in input.readlines()]
